@@ -1,0 +1,73 @@
+.sucursal{
+    width: 405px;
+    height: 953px;
+    background: #feeccd;
+}
+.logo-deli{
+    position: absolute;
+left: 12px;
+
+top: 125px;
+}
+.caja{
+    
+    margin-bottom: 100px;
+    
+    left: 12px;
+    top: 125px;
+}
+.contenido{
+    position: absolute;
+left: 12px;
+
+top: 450px;
+    display: flex;
+    width: 366px;
+    height: 317.143px;
+    padding: 0px 16.65px 53.293px 26.646px;
+    flex-direction: column;
+    align-items: center;
+    gap: 36.97px;
+    flex-shrink: 0;
+}
+.here{
+    
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26.646px; /* 59.214% */
+}
+.lp{
+    display: flex;
+    padding: 19.985px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6.662px;
+    flex: 1 0 0;
+    border-radius: 9.992px;
+    border: 1.665px solid #000;
+    background: transparent;
+    color: #000;
+
+text-align: center;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 26.646px; /* 66.616% */
+}
+.el{
+    display: flex;
+    padding: 19.985px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6.662px;
+    flex: 1 0 0;
+    border-radius: 9.992px;
+    border: 1.665px solid #000; 
+}
